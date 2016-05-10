@@ -130,32 +130,6 @@ Hierdoor kan de gemeente meerdere virtuele servers hosten op een physieke server
     </item>
     
     <item>
-      <title>IT-Profile</title>
-      <link>http://jens-vanhoof.github.io/GIP/artikels/software/IT-Profile/</link>
-      <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
-      
-      <guid>http://jens-vanhoof.github.io/GIP/artikels/software/IT-Profile/</guid>
-      <description>&lt;p&gt;&lt;html&gt;
-&lt;head&gt;
-&lt;head&gt;
-&lt;body&gt;
-&lt;div class=&#34;jumbotron&#34;&gt;
-  &lt;p&gt;
-  &lt;b&gt;Welkom op mijn GIP-website!
-  Ik ben Jens Van Hoof en ik woon in Oostmalle. Ik zit momenteel in mijn zesde jaar informaticabeheer op het Immaculata Instituut te Oostmalle. Het grootste deel van mijn vrije tijd zit ik achter de computer, vaak voor ontspanning, maar ook om website te maken, informatie op zoeken over programmeren enzovoort.&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-    Op deze site die wij hebben moeten maken met GoHugo een static-site generator zullen al mijn GIP-taken gepubliceerd worden. Door op de knop ‘Vakken’ te klikken kan je naar mijn opdrachten gaan per vak. Als je gewoon al mijn opdrachten wil bekijken
-    moet gewoon naar artikels gaan.&lt;br&gt;&lt;br&gt;
-  In de toekomst zie ik mezelf toegepaste informatica volgen om zo later als programmeur te gaan werken. Nadat ik mijn opleiding informatica heb afgerond ga ik misschien ook nog overwegen om voor te studeren in systeembeheer.&lt;br&gt;&lt;br&gt;
-  Ik wens u veel plezier met het surfen op mijn website.
-&lt;/p&gt;
-&lt;h6 align=&#34;center&#34;&gt;Vous avez des questions sur Sway ? Cliquez &lt;a href=&#34;http://jens-vanhoof.github.io/GIP/artikels/Frans/FAQ/&#34;&gt;ICI&lt;/a&gt;.&lt;/h6&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Workflow: Hugo vs WordPress</title>
       <link>http://jens-vanhoof.github.io/GIP/artikels/software/GIP_Taak_07/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
