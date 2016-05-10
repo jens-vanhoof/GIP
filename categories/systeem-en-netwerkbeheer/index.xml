@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systeem En Netwerkbeheer on GIP site</title>
-    <link>http://jens-vanhoof.github.io/GIP/categories/systeem-en-netwerkbeheer/</link>
+    <link>http://jens-vanhoof.github.io/GIP3/categories/systeem-en-netwerkbeheer/</link>
     <description>Recent content in Systeem En Netwerkbeheer on GIP site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 18:46:35 +0200</lastBuildDate>
-    <atom:link href="http://jens-vanhoof.github.io/GIP/categories/systeem-en-netwerkbeheer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jens-vanhoof.github.io/GIP3/categories/systeem-en-netwerkbeheer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Case Study</title>
-      <link>http://jens-vanhoof.github.io/GIP/artikels/systeem-en-netwerkbeheer/Case%20Study/</link>
+      <link>http://jens-vanhoof.github.io/GIP3/artikels/systeem-en-netwerkbeheer/Case%20Study/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP/artikels/systeem-en-netwerkbeheer/Case%20Study/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP3/artikels/systeem-en-netwerkbeheer/Case%20Study/</guid>
       <description>&lt;p&gt;Tijdens mijn case study heb ik de software VMware ESXi.
 Het word gebruikt alleen door de IT-Afdeling van de gemeente.
 Hierdoor kan de gemeente meerdere virtuele servers hosten op een physieke server.

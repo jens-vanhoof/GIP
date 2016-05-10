@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on GIP site</title>
-    <link>http://jens-vanhoof.github.io/GIP/categories/software/</link>
+    <link>http://jens-vanhoof.github.io/GIP3/categories/software/</link>
     <description>Recent content in Software on GIP site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Oct 2015 18:46:35 +0200</lastBuildDate>
-    <atom:link href="http://jens-vanhoof.github.io/GIP/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jens-vanhoof.github.io/GIP3/categories/software/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Database Applicatie</title>
-      <link>http://jens-vanhoof.github.io/GIP/artikels/software/Databases/</link>
+      <link>http://jens-vanhoof.github.io/GIP3/artikels/software/Databases/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP/artikels/software/Databases/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP3/artikels/software/Databases/</guid>
       <description>&lt;p&gt;Het concept van mijn applicatie is dat je jezelf kan registreren en inlogen op mijn website. Vanaf dat je geregistreerd en ingelogd bent kan je bestanden uploaden en downloaden vanuit mijn database.&lt;/p&gt;
 
 &lt;p&gt;&lt;img height=&#34;180&#34; width=&#34;434&#34; align=&#34;right&#34; src=&#34;https://scontent-amt2-1.xx.fbcdn.net/v/t34.0-12/13220133_1269448783082541_1893323696_n.png?oh=a5aff6599434e2c43bf34a66406317bc&amp;oe=5734F233&#34;&gt;&lt;/img&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Huisstijl</title>
-      <link>http://jens-vanhoof.github.io/GIP/artikels/software/Huisstijl/</link>
+      <link>http://jens-vanhoof.github.io/GIP3/artikels/software/Huisstijl/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP/artikels/software/Huisstijl/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP3/artikels/software/Huisstijl/</guid>
       <description>&lt;p&gt;Wat ik ben te weten gekomen over de huisstijl van de gemeente schilde is hun logo. Hun logo word ook gebruikt als sjabloon voor hun mail’s.
 &lt;img height=&#34;300px&#34; align=&#34;right&#34; src=&#34;https://scontent-amt2-1.xx.fbcdn.net/v/t34.0-12/13181049_1269434369750649_1204757008_n.png?oh=bb1f0e38d2f380253dde376a3cf4439f&amp;oe=5734DAE1&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 </description>
@@ -35,10 +35,10 @@
     
     <item>
       <title>IT-Profile</title>
-      <link>http://jens-vanhoof.github.io/GIP/artikels/software/IT-Profile/</link>
+      <link>http://jens-vanhoof.github.io/GIP3/artikels/software/IT-Profile/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP/artikels/software/IT-Profile/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP3/artikels/software/IT-Profile/</guid>
       <description>&lt;p&gt;&lt;html&gt;
 &lt;head&gt;
 &lt;head&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>Workflow: Hugo vs WordPress</title>
-      <link>http://jens-vanhoof.github.io/GIP/artikels/software/GIP_Taak_07/</link>
+      <link>http://jens-vanhoof.github.io/GIP3/artikels/software/GIP_Taak_07/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP/artikels/software/GIP_Taak_07/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP3/artikels/software/GIP_Taak_07/</guid>
       <description>
 
 &lt;p&gt;Hugo is een programma dat werkt met het implementeeren van codes terwijl Wordpress werkt met een drag and drop systeem. Daardoor is Wordpress veel makkelijker en beter om mee te starten. Hugo daar in tegen is een veel moeilijker programma want daar moet je alle code zelf gaan implenteren. Doordat de documentie niet zo denderend is is het ook zeer moeilijk om hier aan te beginnen. Nu we alle nadelen hebben besproken van Hugo zijn er ook een paar voordelen. Het sterke punt van hugo is dat je heel gamakkelijk je post kan maken en aanpassen.&lt;/p&gt;

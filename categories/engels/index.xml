@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engels on GIP site</title>
-    <link>http://jens-vanhoof.github.io/GIP/categories/engels/</link>
+    <link>http://jens-vanhoof.github.io/GIP3/categories/engels/</link>
     <description>Recent content in Engels on GIP site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Dec 2015 14:46:35 +0200</lastBuildDate>
-    <atom:link href="http://jens-vanhoof.github.io/GIP/categories/engels/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jens-vanhoof.github.io/GIP3/categories/engels/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>IT-autobiography</title>
-      <link>http://jens-vanhoof.github.io/GIP/artikels/engels/IT-autobiography/</link>
+      <link>http://jens-vanhoof.github.io/GIP3/artikels/engels/IT-autobiography/</link>
       <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP/artikels/engels/IT-autobiography/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP3/artikels/engels/IT-autobiography/</guid>
       <description>&lt;p&gt;&lt;strong&gt;My name is Jens Van Hoof, a 17-year old! student at the Immaculata institute in Oostmalle. Currently I&amp;rsquo;m studying IT-management. Most of the time, I&amp;rsquo;m the guy who helps people who don&amp;rsquo;t get it yet. Later I want to be a programmer of software or games. My dream job is to be a hacker for the state.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img width=&#34;400px&#34; height=&#34;300px&#34; align=&#34;right&#34; src=&#34;https://scontent-ams2-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/12094781_914998871870460_7303528174420982861_o.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;
@@ -32,10 +32,10 @@ IT has become a really important part of my life. Like one day my keyboard didnâ
     
     <item>
       <title>Review</title>
-      <link>http://jens-vanhoof.github.io/GIP/artikels/engels/Review/</link>
+      <link>http://jens-vanhoof.github.io/GIP3/artikels/engels/Review/</link>
       <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP/artikels/engels/Review/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP3/artikels/engels/Review/</guid>
       <description>&lt;p&gt;Iâ€™m going to review the VMware ESXi. The VMware ESXi is a program that can host multiple virtual servers on a physical server. The program makes the life of a system manager a lot easier. I learned about this software at my apprenticeship where they used it to host about  30 servers.&lt;/p&gt;
 
 &lt;p&gt;The VMware software is established by seven people Diane Greene, Scott Devine, Edward Wang, Mendel Rosenblum and Edouard Bugnion. The software was developed to create a safer and more controllable environment. Back in the days the server room was a room with about 30 physical servers, for each process another one, but that took a lot of space and it was hard to keep up the controls for the hardware. With VMware this problem is solved: now you run VMware on one physical server and then you can host multiple virtual servers.&lt;/p&gt;
