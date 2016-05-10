@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artikels on GIP site</title>
-    <link>http://jens-vanhoof.github.io/GIP3/artikels/</link>
+    <link>http://jens-vanhoof.github.io/GIP/artikels/</link>
     <description>Recent content in Artikels on GIP site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Jan 2016 14:43:34 +0100</lastBuildDate>
-    <atom:link href="http://jens-vanhoof.github.io/GIP3/artikels/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jens-vanhoof.github.io/GIP/artikels/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2016-01-22</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-22/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-22/</link>
       <pubDate>Fri, 22 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-22/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-22/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Vandaag is het mijn laatste dag. Ik heb voor de laatste keer mijn printserver in orde proberen te krijgen.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>2016-01-21</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-21/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-21/</link>
       <pubDate>Thu, 21 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-21/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-21/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Vandaag hebben we nog altijd bezig geweest mijn linux printserver. Er was ook een gedichten avond in de bin dus zijn de dar een beamer gaan instaleren. In de nammiddag was er een probleem met het internet van een van de buitendiensten. Dan hebben we een netwerk kabel moeten van ongeveer 100 meter lang om zo naar een andere dienst te gaan.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>2016-01-20</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-20/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-20/</link>
       <pubDate>Wed, 20 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-20/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-20/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Vandaag heb ik eerst nog wat verder gewerkt aan mijn print server die nog niet helemaal op punt stond. Toen mijn printt server eindelijk werkte hebben we hem ge migreert naar de echt server. we hebben ook nog een tweede domain controleren proberen opte starten met een failover.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>2016-01-19</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-19/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-19/</link>
       <pubDate>Tue, 19 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-19/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-19/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Vadaag heb ik een print server proberen te configureren. Eerst moest ik een virtuele machine instaleren met ubuntu. Daarna moest ik de virtuele machine laten samewerken met mijn windows client. Er werd ook en nieuwe server geinstaleerd die we dan ook hebben aangesloten en geconfigureerd worden.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>2016-01-18</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-18/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-18/</link>
       <pubDate>Mon, 18 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-18/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-18/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Ik heb vandaag nog verder gewerkt aan de hotspot de laatste verbeteringen aangebracht. Daarna heb ik geholpen met het configueren van het access points. daarna heb ik een ubuntu virtuele machine moeten instaleren. Met daarop een lubuntu desktop.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>2016-01-15</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-15/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-15/</link>
       <pubDate>Fri, 15 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-15/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-15/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Ik heb vandaag een website gemaakt voor een landingspagina voor de nieuwe hotspot van de gemeente Schilde. Daarna heb ik exception in de firewall zitten zetten want er waren een aantal sites geblokeerd door dat ze flash hadden geblocked. daarna heb ik een verggelijking gemaakt tussen een ipad air en een ipad air 2. Als laatste hebben we de belichting voor het personeels feest gaan instaleren.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -83,10 +83,10 @@
     
     <item>
       <title>2016-01-14</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-14/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-14/</link>
       <pubDate>Thu, 14 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-14/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-14/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;In de voormiddag heb ik me de hele tijd bezig gehouden met het configureren een switch. het was een switch die ze op reserver hadden liggen. in de nammidag ben ik een inktpatroon gaan vervangen en heb ik nog een nieuwe pc klaargemaakt om aangesloten te worden. Daarna hebben we een kijkje genomen in de firewalll wat het allemaal blocked bv. flash en hoe je een exception kan instellen.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>2016-01-13</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-13/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-13/</link>
       <pubDate>Wed, 13 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-13/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-13/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Ik heb vandaag een aantal pc moeten installeren. we hebben proberen om in een nieuwe server ram latjes bij te steken. in het begin waren er een paar fouten maar die hebben
 we op het einde nog kunnen oplossen. ik heb ook meer inzicht gekregen hoe mijn stage bedrijf hun netwerk eruit zien.
@@ -109,10 +109,10 @@ Ze hebben me ook veel uitgelegd over de beveiliging van het netwerk hoe het inee
     
     <item>
       <title>2016-01-12</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-12/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-12/</link>
       <pubDate>Tue, 12 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-12/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-12/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Ik heb vandaag verschillende pc gecontroleerd of er iets mist mee was. De pc die in orde waren heb ik een herinstallatie op moeten uitvoeren.
 daarna hebben we geprobeerd om van de kapote pc een werkende pc te maken. Tenslotte heb ik ook nog informatie verzameld over de case study.&lt;/p&gt;
@@ -122,10 +122,10 @@ daarna hebben we geprobeerd om van de kapote pc een werkende pc te maken. Tenslo
     
     <item>
       <title>2016-01-11</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-11/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-11/</link>
       <pubDate>Mon, 11 Jan 2016 14:43:34 +0100</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/stageverslagen/2016-01-11/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/stageverslagen/2016-01-11/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;ik heb vandaag meegeholpen om een oude server te verwijderen. Daarnaa hebben we er een nieuwe geplaats die mijn stagementor had voorbereid.
 Daarnaa hebben natuurlijk opnieuw een switch moeten configureren. Toen alles klaar was hebben we geprobeerd om een aantal virtuele server over te brengen naar de nieuwe server.&lt;/p&gt;
@@ -135,30 +135,30 @@ Daarnaa hebben natuurlijk opnieuw een switch moeten configureren. Toen alles kla
     
     <item>
       <title>Instructiefilmpje Sway Engels</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/it-tapa/InstructiefilmSwayENG/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayENG/</link>
       <pubDate>Sun, 06 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/it-tapa/InstructiefilmSwayENG/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayENG/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/yXzof-j0bsY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Instructiefilmpje Sway Nederland</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/it-tapa/InstructiefilmSwayNL/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayNL/</link>
       <pubDate>Sun, 06 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/it-tapa/InstructiefilmSwayNL/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/InstructiefilmSwayNL/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EaHaAgpjdxk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Middagsessie Sway</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/it-tapa/SwayMiddagsesssie/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/SwayMiddagsesssie/</link>
       <pubDate>Sun, 06 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/it-tapa/SwayMiddagsesssie/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/it-tapa/SwayMiddagsesssie/</guid>
       <description>&lt;p&gt;Onze, &lt;a href=&#34;http://ricardo-coenen.github.io/GIPsite/&#34;&gt;Ricardo&lt;/a&gt; en Jens, middagsessie ging over Sway. Sway is de opvolger van PowerPoint, en is veel gebruiksvriendelijker. Als je niet veel van PowerPoint kent, is Sway de ideale oplossing voor u. Als je echter veel van PowerPoint kent en je wilt veel creativiteit gebruiken is PowerPoint nog steeds de koploper. Sway is goed, maar omdat het net uit preview is loopt het vaak vast en je kunt Sway ook niet gebruiken wanneer je geen internet hebt. Het is dus geen programma maar iets in je browser.&lt;/p&gt;
 
 &lt;p&gt;Hier onder vind je ook onze facebook pagina en onze FAQ:&lt;/p&gt;
@@ -174,10 +174,10 @@ Daarnaa hebben natuurlijk opnieuw een switch moeten configureren. Toen alles kla
     
     <item>
       <title>FOIRE AUX QUESTIONS</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/frans/FAQ/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/frans/FAQ/</link>
       <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/frans/FAQ/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/frans/FAQ/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Vous avez des questions sur MS SWAY ? Voici les réponses !&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Quel public est approprié pour sway ?&lt;/em&gt;&lt;/p&gt;
@@ -214,10 +214,10 @@ Daarnaa hebben natuurlijk opnieuw een switch moeten configureren. Toen alles kla
     
     <item>
       <title>IT-autobiography</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/engels/IT-autobiography/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/engels/IT-autobiography/</link>
       <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/engels/IT-autobiography/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/engels/IT-autobiography/</guid>
       <description>&lt;p&gt;&lt;strong&gt;My name is Jens Van Hoof, a 17-year old! student at the Immaculata institute in Oostmalle. Currently I&amp;rsquo;m studying IT-management. Most of the time, I&amp;rsquo;m the guy who helps people who don&amp;rsquo;t get it yet. Later I want to be a programmer of software or games. My dream job is to be a hacker for the state.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img width=&#34;400px&#34; height=&#34;300px&#34; align=&#34;right&#34; src=&#34;https://scontent-ams2-1.xx.fbcdn.net/hphotos-xta1/t31.0-8/12094781_914998871870460_7303528174420982861_o.jpg&#34;&gt;&lt;/img&gt;&lt;/p&gt;

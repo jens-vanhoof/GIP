@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frans on GIP site</title>
-    <link>http://jens-vanhoof.github.io/GIP3/categories/frans/</link>
+    <link>http://jens-vanhoof.github.io/GIP/categories/frans/</link>
     <description>Recent content in Frans on GIP site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Dec 2015 14:46:35 +0200</lastBuildDate>
-    <atom:link href="http://jens-vanhoof.github.io/GIP3/categories/frans/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jens-vanhoof.github.io/GIP/categories/frans/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FOIRE AUX QUESTIONS</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/frans/FAQ/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/frans/FAQ/</link>
       <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/frans/FAQ/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/frans/FAQ/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Vous avez des questions sur MS SWAY ? Voici les réponses !&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Quel public est approprié pour sway ?&lt;/em&gt;&lt;/p&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>Reportage photos</title>
-      <link>http://jens-vanhoof.github.io/GIP3/artikels/frans/Reportage%20photos/</link>
+      <link>http://jens-vanhoof.github.io/GIP/artikels/frans/Reportage%20photos/</link>
       <pubDate>Sat, 05 Dec 2015 14:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/GIP3/artikels/frans/Reportage%20photos/</guid>
+      <guid>http://jens-vanhoof.github.io/GIP/artikels/frans/Reportage%20photos/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;https://www.haikudeck.com/e/41dfcc66b7/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;span style=&#34;font-family: arial, sans-serif; font-size: 8pt;&#34;&gt;&lt;a title=&#34;Gemeente schilde&#34; href=&#34;https://www.haikudeck.com/p/41dfcc66b7&#34;&gt;Gemeente schilde&lt;/a&gt; - Created with Haiku Deck, presentation software that inspires&lt;/span&gt;;&lt;/p&gt;
 </description>
     </item>
