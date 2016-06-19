@@ -31,7 +31,7 @@ swal({
   cancelButtonText : "nee",
   confirmButtonText: "ja" },
   function(){
-         $('#Golgi aparaat').modal('show');
+         $('#Golgi').modal('show');
   });
 });
 $("#button4").click(function() {
