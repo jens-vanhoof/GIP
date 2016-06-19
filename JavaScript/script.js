@@ -24,7 +24,7 @@ swal({
 });
 $("#button3").click(function() {
 swal({
-  title: "Golgi aparaat",
+  title: "Golgi apparaat",
   text: "Wil je meer informatie?",
   showCancelButton: true,
   confirmButtonColor: "#DD6B55",
