@@ -13,7 +13,10 @@ table, th, td {
 table {
     border-collapse: collapse;
 }
-
+th, td {
+    padding: 15px;
+    text-align: center;
+}
 
 h1, .h1,
 h2, .h2,
